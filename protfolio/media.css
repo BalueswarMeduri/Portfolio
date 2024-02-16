@@ -193,7 +193,7 @@
     .front-end {
         position: absolute;
         left: 32%;
-        bottom: 16%;
+        bottom: 10%;
         /* position: relative; */
     }
 
@@ -203,14 +203,14 @@
         height: 2px;
         background: black;
         left: 15%;
-        bottom: 15%;
+        bottom: 10%;
     }
 
     .htmlimg {
         height: 30%;
         position: absolute;
         left: 12%;
-        top: 87%;
+        top: 97%;
     }
 
     .htmlimg:hover {
@@ -223,14 +223,14 @@
         height: 2px;
         background: black;
         left: 15%;
-        top: 116%;
+        top: 126%;
     }
 
     .back-end {
         font-size: 20px;
         position: absolute;
         left: 17%;
-        top: 120%;
+        top: 130%;
     }
 
     .line-3 {
@@ -239,21 +239,21 @@
         height: 2px;
         background: black;
         left: 17%;
-        top: 149%;
+        top: 159%;
     }
 
     .cimg {
         height: 20%;
         position: absolute;
         left: 27%;
-        top: 128%;
+        top: 138%;
     }
 
     .pythonimg {
         height: 20%;
         position: absolute;
         left: 57%;
-        top: 128%;
+        top: 138%;
     }
 
     .pythonimg:hover {
@@ -284,7 +284,7 @@
         background-color: rgba(255, 255, 255, 0.1);
         border-radius: 20px;
         position: absolute;
-        top: 40%; left: 7%;
+        top: 40%; left: 6%;
     }
     .box2 {
         position: relative;
@@ -293,7 +293,7 @@
         background-color: rgba(255, 255, 255, 0.1);
         border-radius: 20px;
         position: absolute;
-        top: 150%; left: 8%;
+        top: 150%; left: 7%;
     }
     .box3 {
         position: relative;
@@ -302,7 +302,7 @@
         background-color: rgba(255, 255, 255, 0.1);
         border-radius: 20px;
         position: absolute;
-        top: 260%; left: 8%;
+        top: 260%; left: 7%;
     }
     .cl{
         position: absolute;
